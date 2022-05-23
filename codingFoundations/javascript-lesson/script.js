@@ -5,6 +5,7 @@ console.log(detailedInfo.innerText);
 // "var" basic variable storage name for data
 // "const" for specific variables that are not expected to change in code
 // "let" allows you to change value of variable within code
+
 // * STRING data type
 let greetingMessage = "what's up";
 const name = "TJ";
