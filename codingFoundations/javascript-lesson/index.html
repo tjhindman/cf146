@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Javascript Lesson</title>
+  </head>
+  <body>
+    <h1>Hello Class!</h1>
+    <p id="info">
+      This will be an intro to Javascript and different functionality within the
+      langauge.
+    </p>
+    <ul>
+      <li>Variables</li>
+      <li>Data types</li>
+      <li>Operators</li>
+      <li>Conditionals</li>
+      <li>Loops</li>
+      <li>Arrays</li>
+      <li>Objects</li>
+    </ul>
+    <h2>Status Checker!</h2>
+    <form>
+      <label for="name">Name</label>
+      <input
+        type="text"
+        name="name"
+        id="name"
+        placeholder="Enter your name..."
+      />
+      <label for="status">Status</label>
+      <input
+        type="text"
+        name="status"
+        id="status"
+        placeholder="Enter your status..."
+      />
+      <input onclick="handleSubmit()" type="button" value="Submit" />
+    </form>
+    <button onclick="logSubmissions()">Check Status</button>
+    <button onclick="greetNames()">Greet</button>
+    <button onclick="showSubmissionInfo()">Show Submission Info</button>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
