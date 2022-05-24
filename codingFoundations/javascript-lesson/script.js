@@ -24,6 +24,7 @@ const zeroVar = 0;
 // * ARRAY data type
 const names = ["TJ", 1, "Mary", "Rob", undefined, [1, 2, 3], nullVar, "Marco"];
 
+// * BACK TICKS + $ + CURLY BRACES = TEMPLATE STRING/TEMPLATE LITERAL: `${}`
 console.log(`"names" array: ${names}`);
 // should be "Rob" (index start a 0)
 console.log("names[3]", names[3]);
