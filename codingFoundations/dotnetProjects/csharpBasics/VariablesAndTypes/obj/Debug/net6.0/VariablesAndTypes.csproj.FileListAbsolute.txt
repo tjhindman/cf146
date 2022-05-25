@@ -1,0 +1,15 @@
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.deps.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.runtimeconfig.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/ref/VariablesAndTypes.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.csproj.AssemblyReference.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.AssemblyInfoInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.AssemblyInfo.cs
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.csproj.CoreCompileInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/ref/VariablesAndTypes.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.genruntimeconfig.cache

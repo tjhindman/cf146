@@ -1,0 +1,15 @@
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/Operators
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/Operators.deps.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/Operators.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/ref/Operators.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/bin/Debug/net6.0/Operators.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/ref/Operators.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache

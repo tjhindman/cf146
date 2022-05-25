@@ -1,0 +1,15 @@
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.csproj.AssemblyReference.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/Conditionals
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/Conditionals.deps.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/Conditionals.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/ref/Conditionals.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/bin/Debug/net6.0/Conditionals.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/ref/Conditionals.dll
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.pdb
+/Users/thomashindmanjr/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Conditionals/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
