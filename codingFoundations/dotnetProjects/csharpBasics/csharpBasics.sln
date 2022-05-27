@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{53E51CB6-B092-407B-9413-A6FC3F84D763}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{D9CC68F4-FC20-494B-BF54-44D49B644240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{53E51CB6-B092-407B-9413-A6FC3F84D763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E51CB6-B092-407B-9413-A6FC3F84D763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E51CB6-B092-407B-9413-A6FC3F84D763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CC68F4-FC20-494B-BF54-44D49B644240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CC68F4-FC20-494B-BF54-44D49B644240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CC68F4-FC20-494B-BF54-44D49B644240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CC68F4-FC20-494B-BF54-44D49B644240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

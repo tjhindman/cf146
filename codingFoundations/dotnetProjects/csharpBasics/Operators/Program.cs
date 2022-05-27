@@ -17,6 +17,8 @@ int product = a * b;
 int quotient = a / b;
 
 // * REMAINDER "%" OPERATOR (MODULUS)
+// MODULUS "%" CHECKS HOW MANY TIMES SECOND NUMBER WILL GO INTO FIRST NUMBER, 
+// AND RETURN THE REMAINDER
 int remainder = b % a;
 
 // * certain "structs" (other reference data types) can also use "operators"
