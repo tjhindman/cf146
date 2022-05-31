@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.AssemblyInfo.cs
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/bin/Debug/net6.0/CalculatorChallenge
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/bin/Debug/net6.0/CalculatorChallenge.deps.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/bin/Debug/net6.0/CalculatorChallenge.runtimeconfig.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/bin/Debug/net6.0/CalculatorChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/bin/Debug/net6.0/CalculatorChallenge.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/refint/CalculatorChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/CalculatorChallenge.genruntimeconfig.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/CalculatorChallenge/obj/Debug/net6.0/ref/CalculatorChallenge.dll

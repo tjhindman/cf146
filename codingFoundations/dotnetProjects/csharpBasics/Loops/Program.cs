@@ -1,6 +1,7 @@
 ﻿// ! FOR LOOPS
 string[] students = { "Zach", "Mary", "Nick", "Kevin", "Hassan" };
 
+// "i++" is shorthand for "i = i + 1"
 for (int i = 0; i < students.Length; i++)
 {
     System.Console.WriteLine($"good to see you {students[i]}");
