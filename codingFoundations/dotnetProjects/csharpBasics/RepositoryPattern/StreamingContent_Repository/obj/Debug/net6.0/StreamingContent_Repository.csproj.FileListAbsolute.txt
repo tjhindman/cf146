@@ -1,0 +1,12 @@
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/bin/Debug/net6.0/StreamingContent_Repository.deps.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/bin/Debug/net6.0/StreamingContent_Repository.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/bin/Debug/net6.0/StreamingContent_Repository.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.AssemblyInfo.cs
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/refint/StreamingContent_Repository.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/StreamingContent_Repository.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/RepositoryPattern/StreamingContent_Repository/obj/Debug/net6.0/ref/StreamingContent_Repository.dll
