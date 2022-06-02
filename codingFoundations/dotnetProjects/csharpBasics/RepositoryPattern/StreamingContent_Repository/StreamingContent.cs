@@ -47,7 +47,9 @@ public enum MaturityRating
     G,
     PG,
     PG13,
-    R
+    R,
+    // * added this for "Console" functionality
+    NotRated
 }
 public enum GenreType {
     Horror,
@@ -57,5 +59,7 @@ public enum GenreType {
     Action,
     SciFi,
     Drama,
-    RomCom
+    RomCom,
+    // * added this for "Console" functionality
+    Unknown
 }

@@ -24,7 +24,8 @@ public class StreamingContentRepository
     {
         // .Find() docs:
         // https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.find?view=net-6.0
-        return _contentDirectory.Find(content => content.Title == title);
+        // make sure we account for casing based on how "title" was entered when created vs. now with ".ToLower()"
+        return _contentDirectory.Find(content => content.Title.ToLower() == title.ToLower());
     }
     // can build out get by rating
     // can build out get by genre

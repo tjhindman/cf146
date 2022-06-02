@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamingContent_Console/1.0.0": {
+        "dependencies": {
+          "StreamingContent_Repository": "1.0.0"
+        },
+        "runtime": {
+          "StreamingContent_Console.dll": {}
+        }
+      },
+      "StreamingContent_Repository/1.0.0": {
+        "runtime": {
+          "StreamingContent_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingContent_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamingContent_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
