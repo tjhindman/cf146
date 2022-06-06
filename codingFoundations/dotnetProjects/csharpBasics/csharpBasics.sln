@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContent_Console", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingContent_Tests", "RepositoryPattern\StreamingContent_Tests\StreamingContent_Tests.csproj", "{77285FE3-5EA9-4798-8485-6BBC9C4DD49A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{ACBF1B5C-9607-4DF8-85CF-ED72B4F70EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{77285FE3-5EA9-4798-8485-6BBC9C4DD49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77285FE3-5EA9-4798-8485-6BBC9C4DD49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77285FE3-5EA9-4798-8485-6BBC9C4DD49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBF1B5C-9607-4DF8-85CF-ED72B4F70EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBF1B5C-9607-4DF8-85CF-ED72B4F70EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBF1B5C-9607-4DF8-85CF-ED72B4F70EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBF1B5C-9607-4DF8-85CF-ED72B4F70EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AC421CB2-C402-4BA0-B54A-306397057937} = {054ED680-BC1A-4DAA-9CDE-52EF84C23481}

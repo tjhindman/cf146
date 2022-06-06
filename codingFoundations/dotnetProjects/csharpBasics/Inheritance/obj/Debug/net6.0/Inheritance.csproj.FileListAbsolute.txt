@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/dotnetProjects/csharpBasics/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
