@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj": {}
+  },
+  "projects": {
+    "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj",
+        "projectName": "BakerStreet_Repo",
+        "projectPath": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/BakerStreet_Repo.csproj",
+        "packagesPath": "/Users/tj/.nuget/packages/",
+        "outputPath": "/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

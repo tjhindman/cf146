@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorChallenge", "CalculatorChallenge\CalculatorChallenge.csproj", "{A75E336F-A2DE-4E4F-9F5E-B1976C1218CF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BakerStreetRepoChallenge", "BakerStreetRepoChallenge", "{A0FF4CF6-0820-4A29-A980-B272789E5120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreet_Console", "BakerStreetRepoChallenge\BakerStreet_Console\BakerStreet_Console.csproj", "{5A203387-A6CA-471E-905B-4356A1018591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreet_Repo", "BakerStreetRepoChallenge\BakerStreet_Repo\BakerStreet_Repo.csproj", "{35F377CF-A953-49E7-809B-EBC3096A2FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreet_Testing", "BakerStreetRepoChallenge\BakerStreet_Testing\BakerStreet_Testing.csproj", "{51B0FE36-CF62-43D5-821C-05D7B523E211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,22 @@ Global
 		{A75E336F-A2DE-4E4F-9F5E-B1976C1218CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A75E336F-A2DE-4E4F-9F5E-B1976C1218CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A75E336F-A2DE-4E4F-9F5E-B1976C1218CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A203387-A6CA-471E-905B-4356A1018591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A203387-A6CA-471E-905B-4356A1018591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A203387-A6CA-471E-905B-4356A1018591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A203387-A6CA-471E-905B-4356A1018591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F377CF-A953-49E7-809B-EBC3096A2FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F377CF-A953-49E7-809B-EBC3096A2FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F377CF-A953-49E7-809B-EBC3096A2FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F377CF-A953-49E7-809B-EBC3096A2FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A203387-A6CA-471E-905B-4356A1018591} = {A0FF4CF6-0820-4A29-A980-B272789E5120}
+		{35F377CF-A953-49E7-809B-EBC3096A2FC1} = {A0FF4CF6-0820-4A29-A980-B272789E5120}
+		{51B0FE36-CF62-43D5-821C-05D7B523E211} = {A0FF4CF6-0820-4A29-A980-B272789E5120}
 	EndGlobalSection
 EndGlobal

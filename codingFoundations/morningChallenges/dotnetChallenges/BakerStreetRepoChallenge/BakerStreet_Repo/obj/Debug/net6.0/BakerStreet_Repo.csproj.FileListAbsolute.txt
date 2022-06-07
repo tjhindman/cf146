@@ -1,0 +1,12 @@
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/bin/Debug/net6.0/BakerStreet_Repo.deps.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/bin/Debug/net6.0/BakerStreet_Repo.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/bin/Debug/net6.0/BakerStreet_Repo.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.AssemblyInfo.cs
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/refint/BakerStreet_Repo.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/BakerStreet_Repo.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/BakerStreetRepoChallenge/BakerStreet_Repo/obj/Debug/net6.0/ref/BakerStreet_Repo.dll
