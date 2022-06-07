@@ -123,4 +123,26 @@ public class StreamingContentTests
 
         Assert.Equal(expected, actual);
     }
+
+    [Fact]
+    public void MovieTest()
+    {
+        Movie trainingDay = new Movie("Training Day", "denzel corrupts a solid training officer", 4.6, MaturityRating.R, GenreType.Drama, 2.02, "Antoine Fuqua");
+
+        string expected = "Training Day: directed by Antoine Fuqua";
+        string actual = $"{trainingDay.Title}: directed by {trainingDay.Director}";
+
+        Assert.Equal(expected, actual);
+    }
+
+    [Fact]
+    public void ShowTest()
+    {
+        Show regularShow = new Show("Regular Show", "mordecai and rigby slack off and go on adventures", 5, MaturityRating.PG13, GenreType.Action, 16);
+
+        string expected = "Regular Show: avg run time is 16 mins";
+        string actual = $"{regularShow.Title}: avg run time is {regularShow.AvgRunTimeMins} mins";
+
+        Assert.Equal(expected, actual);
+    }
 }

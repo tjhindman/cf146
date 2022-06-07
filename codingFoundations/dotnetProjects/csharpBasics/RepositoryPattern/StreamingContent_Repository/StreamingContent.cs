@@ -3,6 +3,7 @@ namespace StreamingContent_Repository;
 
 // POCO = "Plain Old C# Object" for data blueprint
 // Streaming Content POCO:
+// ! BASE "parent" class (used in Movie.cs and Show.cs)
 public class StreamingContent
 {
     public StreamingContent()
