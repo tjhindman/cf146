@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.AssemblyInfo.cs
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/bin/Debug/net6.0/DrofsnarChallenge
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/bin/Debug/net6.0/DrofsnarChallenge.deps.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/bin/Debug/net6.0/DrofsnarChallenge.runtimeconfig.json
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/bin/Debug/net6.0/DrofsnarChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/bin/Debug/net6.0/DrofsnarChallenge.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/refint/DrofsnarChallenge.dll
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.pdb
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/DrofsnarChallenge.genruntimeconfig.cache
+/Users/tj/Desktop/efa/cf146/codingFoundations/morningChallenges/dotnetChallenges/DrofsnarChallenge/obj/Debug/net6.0/ref/DrofsnarChallenge.dll

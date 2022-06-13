@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreet_Repo", "BakerSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreet_Testing", "BakerStreetRepoChallenge\BakerStreet_Testing\BakerStreet_Testing.csproj", "{51B0FE36-CF62-43D5-821C-05D7B523E211}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrofsnarChallenge", "DrofsnarChallenge\DrofsnarChallenge.csproj", "{FBB33E47-0045-44BE-AC54-5F16CAF7C718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B0FE36-CF62-43D5-821C-05D7B523E211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB33E47-0045-44BE-AC54-5F16CAF7C718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB33E47-0045-44BE-AC54-5F16CAF7C718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB33E47-0045-44BE-AC54-5F16CAF7C718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB33E47-0045-44BE-AC54-5F16CAF7C718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5A203387-A6CA-471E-905B-4356A1018591} = {A0FF4CF6-0820-4A29-A980-B272789E5120}
